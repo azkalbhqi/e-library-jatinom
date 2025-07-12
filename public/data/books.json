@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "link": "https://example.com/books/atomic-habits.pdf",
+    "image": "https://example.com/images/atomic-habits.jpg",
+    "desc": "A captivating book titled 'Atomic Habits' by James Clear, exploring themes of self-help.",
+    "category": "Self-Help"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "link": "https://example.com/books/the-pragmatic-programmer.pdf",
+    "image": "https://example.com/images/the-pragmatic-programmer.jpg",
+    "desc": "A captivating book titled 'The Pragmatic Programmer' by Andrew Hunt & David Thomas, exploring themes of technology.",
+    "category": "Technology"
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "link": "https://example.com/books/sapiens.pdf",
+    "image": "https://example.com/images/sapiens.jpg",
+    "desc": "A captivating book titled 'Sapiens' by Yuval Noah Harari, exploring themes of history.",
+    "category": "History"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "link": "https://example.com/books/deep-work.pdf",
+    "image": "https://example.com/images/deep-work.jpg",
+    "desc": "A captivating book titled 'Deep Work' by Cal Newport, exploring themes of productivity.",
+    "category": "Productivity"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "link": "https://example.com/books/rich-dad-poor-dad.pdf",
+    "image": "https://example.com/images/rich-dad-poor-dad.jpg",
+    "desc": "A captivating book titled 'Rich Dad Poor Dad' by Robert T. Kiyosaki, exploring themes of finance.",
+    "category": "Finance"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "link": "https://example.com/books/1984.pdf",
+    "image": "https://example.com/images/1984.jpg",
+    "desc": "A captivating book titled '1984' by George Orwell, exploring themes of fiction.",
+    "category": "Fiction"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "link": "https://example.com/books/the-lean-startup.pdf",
+    "image": "https://example.com/images/the-lean-startup.jpg",
+    "desc": "A captivating book titled 'The Lean Startup' by Eric Ries, exploring themes of business.",
+    "category": "Business"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "link": "https://example.com/books/to-kill-a-mockingbird.pdf",
+    "image": "https://example.com/images/to-kill-a-mockingbird.jpg",
+    "desc": "A captivating book titled 'To Kill a Mockingbird' by Harper Lee, exploring themes of fiction.",
+    "category": "Fiction"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "link": "https://example.com/books/thinking-fast-and-slow.pdf",
+    "image": "https://example.com/images/thinking-fast-and-slow.jpg",
+    "desc": "A captivating book titled 'Thinking, Fast and Slow' by Daniel Kahneman, exploring themes of psychology.",
+    "category": "Psychology"
+  },
+  {
+    "title": "The 4-Hour Workweek",
+    "author": "Tim Ferriss",
+    "link": "https://example.com/books/the-4-hour-workweek.pdf",
+    "image": "https://example.com/images/the-4-hour-workweek.jpg",
+    "desc": "A captivating book titled 'The 4-Hour Workweek' by Tim Ferriss, exploring themes of self-help.",
+    "category": "Self-Help"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "link": "https://example.com/books/clean-code.pdf",
+    "image": "https://example.com/images/clean-code.jpg",
+    "desc": "A captivating book titled 'Clean Code' by Robert C. Martin, exploring themes of technology.",
+    "category": "Technology"
+  },
+  {
+    "title": "Start With Why",
+    "author": "Simon Sinek",
+    "link": "https://example.com/books/start-with-why.pdf",
+    "image": "https://example.com/images/start-with-why.jpg",
+    "desc": "A captivating book titled 'Start With Why' by Simon Sinek, exploring themes of motivation.",
+    "category": "Motivation"
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "link": "https://example.com/books/the-power-of-now.pdf",
+    "image": "https://example.com/images/the-power-of-now.jpg",
+    "desc": "A captivating book titled 'The Power of Now' by Eckhart Tolle, exploring themes of spirituality.",
+    "category": "Spirituality"
+  },
+  {
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "link": "https://example.com/books/grit.pdf",
+    "image": "https://example.com/images/grit.jpg",
+    "desc": "A captivating book titled 'Grit' by Angela Duckworth, exploring themes of psychology.",
+    "category": "Psychology"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "link": "https://example.com/books/the-alchemist.pdf",
+    "image": "https://example.com/images/the-alchemist.jpg",
+    "desc": "A captivating book titled 'The Alchemist' by Paulo Coelho, exploring themes of fiction.",
+    "category": "Fiction"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "link": "https://example.com/books/the-subtle-art-of-not-giving-a-fck.pdf",
+    "image": "https://example.com/images/the-subtle-art-of-not-giving-a-fck.jpg",
+    "desc": "A captivating book titled 'The Subtle Art of Not Giving a F*ck' by Mark Manson, exploring themes of self-help.",
+    "category": "Self-Help"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "link": "https://example.com/books/educated.pdf",
+    "image": "https://example.com/images/educated.jpg",
+    "desc": "A captivating book titled 'Educated' by Tara Westover, exploring themes of memoir.",
+    "category": "Memoir"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "link": "https://example.com/books/zero-to-one.pdf",
+    "image": "https://example.com/images/zero-to-one.jpg",
+    "desc": "A captivating book titled 'Zero to One' by Peter Thiel, exploring themes of business.",
+    "category": "Business"
+  },
+  {
+    "title": "Hooked",
+    "author": "Nir Eyal",
+    "link": "https://example.com/books/hooked.pdf",
+    "image": "https://example.com/images/hooked.jpg",
+    "desc": "A captivating book titled 'Hooked' by Nir Eyal, exploring themes of technology.",
+    "category": "Technology"
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "link": "https://example.com/books/the-psychology-of-money.pdf",
+    "image": "https://example.com/images/the-psychology-of-money.jpg",
+    "desc": "A captivating book titled 'The Psychology of Money' by Morgan Housel, exploring themes of finance.",
+    "category": "Finance"
+  },
+  {
+    "title": "Filosofi Teras",
+    "author": "Henry Manampiring",
+    "link": "https://example.com/books/filosofi-teras.pdf",
+    "image": "https://example.com/images/filosofi-teras.jpg",
+    "desc": "A captivating book titled 'Filosofi Teras' by Henry Manampiring, exploring themes of self-help.",
+    "category": "Self-Help"
+  },
+  {
+    "title": "Negeri 5 Menara",
+    "author": "Ahmad Fuadi",
+    "link": "https://example.com/books/negeri-5-menara.pdf",
+    "image": "https://example.com/images/negeri-5-menara.jpg",
+    "desc": "A captivating book titled 'Negeri 5 Menara' by Ahmad Fuadi, exploring themes of fiction.",
+    "category": "Fiction"
+  },
+  {
+    "title": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "link": "https://example.com/books/laskar-pelangi.pdf",
+    "image": "https://example.com/images/laskar-pelangi.jpg",
+    "desc": "A captivating book titled 'Laskar Pelangi' by Andrea Hirata, exploring themes of fiction.",
+    "category": "Fiction"
+  },
+  {
+    "title": "Bumi",
+    "author": "Tere Liye",
+    "link": "https://example.com/books/bumi.pdf",
+    "image": "https://example.com/images/bumi.jpg",
+    "desc": "A captivating book titled 'Bumi' by Tere Liye, exploring themes of fantasy.",
+    "category": "Fantasy"
+  },
+  {
+    "title": "Rindu",
+    "author": "Tere Liye",
+    "link": "https://example.com/books/rindu.pdf",
+    "image": "https://example.com/images/rindu.jpg",
+    "desc": "A captivating book titled 'Rindu' by Tere Liye, exploring themes of fiction.",
+    "category": "Fiction"
+  },
+  {
+    "title": "Pulang",
+    "author": "Leila S. Chudori",
+    "link": "https://example.com/books/pulang.pdf",
+    "image": "https://example.com/images/pulang.jpg",
+    "desc": "A captivating book titled 'Pulang' by Leila S. Chudori, exploring themes of historical fiction.",
+    "category": "Historical Fiction"
+  },
+  {
+    "title": "Perahu Kertas",
+    "author": "Dee Lestari",
+    "link": "https://example.com/books/perahu-kertas.pdf",
+    "image": "https://example.com/images/perahu-kertas.jpg",
+    "desc": "A captivating book titled 'Perahu Kertas' by Dee Lestari, exploring themes of romance.",
+    "category": "Romance"
+  },
+  {
+    "title": "Kambing Jantan",
+    "author": "Raditya Dika",
+    "link": "https://example.com/books/kambing-jantan.pdf",
+    "image": "https://example.com/images/kambing-jantan.jpg",
+    "desc": "A captivating book titled 'Kambing Jantan' by Raditya Dika, exploring themes of humor.",
+    "category": "Humor"
+  },
+  {
+    "title": "Garis Waktu",
+    "author": "Fiersa Besari",
+    "link": "https://example.com/books/garis-waktu.pdf",
+    "image": "https://example.com/images/garis-waktu.jpg",
+    "desc": "A captivating book titled 'Garis Waktu' by Fiersa Besari, exploring themes of poetry.",
+    "category": "Poetry"
+  },
+  {
+    "title": "Koala Kumal",
+    "author": "Raditya Dika",
+    "link": "https://example.com/books/koala-kumal.pdf",
+    "image": "https://example.com/images/koala-kumal.jpg",
+    "desc": "A captivating book titled 'Koala Kumal' by Raditya Dika, exploring themes of humor.",
+    "category": "Humor"
+  },
+  {
+    "title": "Sepotong Senja untuk Pacarku",
+    "author": "Seno Gumira Ajidarma",
+    "link": "https://example.com/books/sepotong-senja-untuk-pacarku.pdf",
+    "image": "https://example.com/images/sepotong-senja-untuk-pacarku.jpg",
+    "desc": "A captivating book titled 'Sepotong Senja untuk Pacarku' by Seno Gumira Ajidarma, exploring themes of romance.",
+    "category": "Romance"
+  },
+  {
+    "title": "Ayat-Ayat Cinta",
+    "author": "Habiburrahman El Shirazy",
+    "link": "https://example.com/books/ayat-ayat-cinta.pdf",
+    "image": "https://example.com/images/ayat-ayat-cinta.jpg",
+    "desc": "A captivating book titled 'Ayat-Ayat Cinta' by Habiburrahman El Shirazy, exploring themes of romance.",
+    "category": "Romance"
+  },
+  {
+    "title": "Supernova",
+    "author": "Dee Lestari",
+    "link": "https://example.com/books/supernova.pdf",
+    "image": "https://example.com/images/supernova.jpg",
+    "desc": "A captivating book titled 'Supernova' by Dee Lestari, exploring themes of science fiction.",
+    "category": "Science Fiction"
+  },
+  {
+    "title": "Orang-Orang Biasa",
+    "author": "Andrea Hirata",
+    "link": "https://example.com/books/orang-orang-biasa.pdf",
+    "image": "https://example.com/images/orang-orang-biasa.jpg",
+    "desc": "A captivating book titled 'Orang-Orang Biasa' by Andrea Hirata, exploring themes of fiction.",
+    "category": "Fiction"
+  },
+  {
+    "title": "Anak Rantau",
+    "author": "A. Fuadi",
+    "link": "https://example.com/books/anak-rantau.pdf",
+    "image": "https://example.com/images/anak-rantau.jpg",
+    "desc": "A captivating book titled 'Anak Rantau' by A. Fuadi, exploring themes of fiction.",
+    "category": "Fiction"
+  },
+  {
+    "title": "Berani Tidak Disukai",
+    "author": "Ichiro Kishimi & Fumitake Koga",
+    "link": "https://example.com/books/berani-tidak-disukai.pdf",
+    "image": "https://example.com/images/berani-tidak-disukai.jpg",
+    "desc": "A captivating book titled 'Berani Tidak Disukai' by Ichiro Kishimi & Fumitake Koga, exploring themes of self-help.",
+    "category": "Self-Help"
+  },
+  {
+    "title": "Totto-chan",
+    "author": "Tetsuko Kuroyanagi",
+    "link": "https://example.com/books/totto-chan.pdf",
+    "image": "https://example.com/images/totto-chan.jpg",
+    "desc": "A captivating book titled 'Totto-chan' by Tetsuko Kuroyanagi, exploring themes of memoir.",
+    "category": "Memoir"
+  },
+  {
+    "title": "Hujan",
+    "author": "Tere Liye",
+    "link": "https://example.com/books/hujan.pdf",
+    "image": "https://example.com/images/hujan.jpg",
+    "desc": "A captivating book titled 'Hujan' by Tere Liye, exploring themes of romance.",
+    "category": "Romance"
+  },
+  {
+    "title": "Dilan 1990",
+    "author": "Pidi Baiq",
+    "link": "https://example.com/books/dilan-1990.pdf",
+    "image": "https://example.com/images/dilan-1990.jpg",
+    "desc": "A captivating book titled 'Dilan 1990' by Pidi Baiq, exploring themes of romance.",
+    "category": "Romance"
+  },
+  {
+    "title": "Sabtu Bersama Bapak",
+    "author": "Adhitya Mulya",
+    "link": "https://example.com/books/sabtu-bersama-bapak.pdf",
+    "image": "https://example.com/images/sabtu-bersama-bapak.jpg",
+    "desc": "A captivating book titled 'Sabtu Bersama Bapak' by Adhitya Mulya, exploring themes of family.",
+    "category": "Family"
+  },
+  {
+    "title": "Koala Kumal",
+    "author": "Raditya Dika",
+    "link": "https://example.com/books/koala-kumal.pdf",
+    "image": "https://example.com/images/koala-kumal.jpg",
+    "desc": "A captivating book titled 'Koala Kumal' by Raditya Dika, exploring themes of humor.",
+    "category": "Humor"
+  },
+  {
+    "title": "Kambing Jantan",
+    "author": "Raditya Dika",
+    "link": "https://example.com/books/kambing-jantan.pdf",
+    "image": "https://example.com/images/kambing-jantan.jpg",
+    "desc": "A captivating book titled 'Kambing Jantan' by Raditya Dika, exploring themes of humor.",
+    "category": "Humor"
+  },
+  {
+    "title": "Sepotong Senja untuk Pacarku",
+    "author": "Seno Gumira Ajidarma",
+    "link": "https://example.com/books/sepotong-senja-untuk-pacarku.pdf",
+    "image": "https://example.com/images/sepotong-senja-untuk-pacarku.jpg",
+    "desc": "A captivating book titled 'Sepotong Senja untuk Pacarku' by Seno Gumira Ajidarma, exploring themes of romance.",
+    "category": "Romance"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "link": "https://example.com/books/thinking-fast-and-slow.pdf",
+    "image": "https://example.com/images/thinking-fast-and-slow.jpg",
+    "desc": "A captivating book titled 'Thinking, Fast and Slow' by Daniel Kahneman, exploring themes of psychology.",
+    "category": "Psychology"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "link": "https://example.com/books/the-pragmatic-programmer.pdf",
+    "image": "https://example.com/images/the-pragmatic-programmer.jpg",
+    "desc": "A captivating book titled 'The Pragmatic Programmer' by Andrew Hunt & David Thomas, exploring themes of technology.",
+    "category": "Technology"
+  },
+  {
+    "title": "Koala Kumal",
+    "author": "Raditya Dika",
+    "link": "https://example.com/books/koala-kumal.pdf",
+    "image": "https://example.com/images/koala-kumal.jpg",
+    "desc": "A captivating book titled 'Koala Kumal' by Raditya Dika, exploring themes of humor.",
+    "category": "Humor"
+  },
+  {
+    "title": "Pulang",
+    "author": "Leila S. Chudori",
+    "link": "https://example.com/books/pulang.pdf",
+    "image": "https://example.com/images/pulang.jpg",
+    "desc": "A captivating book titled 'Pulang' by Leila S. Chudori, exploring themes of historical fiction.",
+    "category": "Historical Fiction"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "link": "https://example.com/books/rich-dad-poor-dad.pdf",
+    "image": "https://example.com/images/rich-dad-poor-dad.jpg",
+    "desc": "A captivating book titled 'Rich Dad Poor Dad' by Robert T. Kiyosaki, exploring themes of finance.",
+    "category": "Finance"
+  },
+  {
+    "title": "Start With Why",
+    "author": "Simon Sinek",
+    "link": "https://example.com/books/start-with-why.pdf",
+    "image": "https://example.com/images/start-with-why.jpg",
+    "desc": "A captivating book titled 'Start With Why' by Simon Sinek, exploring themes of motivation.",
+    "category": "Motivation"
+  },
+  {
+    "title": "Totto-chan",
+    "author": "Tetsuko Kuroyanagi",
+    "link": "https://example.com/books/totto-chan.pdf",
+    "image": "https://example.com/images/totto-chan.jpg",
+    "desc": "A captivating book titled 'Totto-chan' by Tetsuko Kuroyanagi, exploring themes of memoir.",
+    "category": "Memoir"
+  }
+]
