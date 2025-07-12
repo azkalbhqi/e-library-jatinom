@@ -1,5 +1,8 @@
-import { notFound } from "next/navigation";
-import { Metadata } from "next";
+"use client";
+
+import { useEffect, useState } from "react";
+import { useParams, notFound } from "next/navigation";
+import Link from "next/link";
 
 type Book = {
   title: string;
@@ -14,40 +17,40 @@ function slugify(title: string) {
   return title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 }
 
-async function getBook(slug: string): Promise<Book | null> {
-  const res = await fetch("http://localhost:3000/data/books.json", {
-    cache: "no-store"
-  });
+export default function BookDetail() {
+  const { slug } = useParams();
+  const [book, setBook] = useState<Book | null>(null);
+  const [loading, setLoading] = useState(true);
 
-  if (!res.ok) return null;
+  useEffect(() => {
+    async function fetchBook() {
+      try {
+        const res = await fetch("/data/books.json");
+        const books: Book[] = await res.json();
 
-  const books: Book[] = await res.json();
+        const found = books.find(
+          (b) => slugify(b.title) === slug
+        );
 
-  return (
-    books.find((b) => slugify(b.title) === slug) || null
-  );
-}
+        setBook(found || null);
+        setLoading(false);
+      } catch (err) {
+        console.error("Failed to fetch books", err);
+        setBook(null);
+        setLoading(false);
+      }
+    }
 
-export async function generateMetadata({
-  params,
-}: {
-  params: { slug: string };
-}): Promise<Metadata> {
-  const book = await getBook(params.slug);
-  if (!book) return {};
-  return {
-    title: `${book.title} - E-Library`,
-  };
-}
+    fetchBook();
+  }, [slug]);
 
-export default async function BookDetail({
-  params,
-}: {
-  params: { slug: string };
-}) {
-  const book = await getBook(params.slug);
+  if (loading) {
+    return <div className="p-6 text-center">Loading...</div>;
+  }
 
-  if (!book) notFound();
+  if (!book) {
+    return <div className="p-6 text-center text-gray-500">Buku tidak ditemukan</div>;
+  }
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
@@ -64,14 +67,14 @@ export default async function BookDetail({
           <p className="text-sm text-indigo-500 italic mb-4">{book.category}</p>
           <p className="mb-4 text-gray-700">{book.desc}</p>
 
-          <a
+          <Link
             href={book.link}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded mt-4"
           >
             📖 Read / Download
-          </a>
+          </Link>
         </div>
       </div>
     </div>
