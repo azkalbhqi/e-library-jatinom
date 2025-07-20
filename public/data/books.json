@@ -1,402 +1,242 @@
 [
   {
-    "title": "Atomic Habits",
-    "author": "James Clear",
-    "link": "https://example.com/books/atomic-habits.pdf",
-    "image": "https://example.com/images/atomic-habits.jpg",
-    "desc": "A captivating book titled 'Atomic Habits' by James Clear, exploring themes of self-help.",
-    "category": "Self-Help"
+    "title": "Abdul dan Harimau",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1EsGKBFwPRZFNsTdTzgJKioBsVtXsV3rW/view?usp=drive_link",
+    "image": "/sampul/1.png", 
+    "desc": "Dongeng petualangan seru Abdul menghadapi harimau di hutan.",
+    "category": "Fiksi Anak"
   },
   {
-    "title": "The Pragmatic Programmer",
-    "author": "Andrew Hunt & David Thomas",
-    "link": "https://example.com/books/the-pragmatic-programmer.pdf",
-    "image": "https://example.com/images/the-pragmatic-programmer.jpg",
-    "desc": "A captivating book titled 'The Pragmatic Programmer' by Andrew Hunt & David Thomas, exploring themes of technology.",
-    "category": "Technology"
+    "title": "Aku sudah besar",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1m1_yeJQ3ZbYPKNshuiickK8j-5IEes5J/view?usp=drive_link",
+    "image": "/sampul/2.png", 
+    "desc": "Cerita anak tentang tumbuh besar dan menjadi mandiri.",
+    "category": "Fiksi Anak"
   },
   {
-    "title": "Sapiens",
-    "author": "Yuval Noah Harari",
-    "link": "https://example.com/books/sapiens.pdf",
-    "image": "https://example.com/images/sapiens.jpg",
-    "desc": "A captivating book titled 'Sapiens' by Yuval Noah Harari, exploring themes of history.",
-    "category": "History"
+    "title": "Aku kisahku dan cita cita untuk negeriku",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1fXni1AhdGTJqpEGZXgDJB0un_TYoO1G4/view?usp=drive_link",
+    "image": "/sampul/3.png", 
+    "desc": "Inspiratif, anak-anak bermimpi besar untuk masa depan negeri.",
+    "category": "Motivasi Anak"
   },
   {
-    "title": "Deep Work",
-    "author": "Cal Newport",
-    "link": "https://example.com/books/deep-work.pdf",
-    "image": "https://example.com/images/deep-work.jpg",
-    "desc": "A captivating book titled 'Deep Work' by Cal Newport, exploring themes of productivity.",
-    "category": "Productivity"
+    "title": "Apa itu",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1sYiRTp0TmYGQD9jXkp8jxUZFDFTPU5rF/view?usp=drive_link",
+    "image": "/sampul/4.png", 
+    "desc": "Buku edukasi untuk mengenal konsep-konsep penting secara sederhana.",
+    "category": "Edukasi Anak"
   },
   {
-    "title": "Rich Dad Poor Dad",
-    "author": "Robert T. Kiyosaki",
-    "link": "https://example.com/books/rich-dad-poor-dad.pdf",
-    "image": "https://example.com/images/rich-dad-poor-dad.jpg",
-    "desc": "A captivating book titled 'Rich Dad Poor Dad' by Robert T. Kiyosaki, exploring themes of finance.",
-    "category": "Finance"
+    "title": "Baca Buku yuk!",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/16zi_AGwDNgwhmoRdzo-Gj0g_zmVkX5aZ/view?usp=drive_link",
+    "image": "/sampul/5.png", 
+    "desc": "Mengajak anak gemar membaca melalui cerita seru dan ilustratif.",
+    "category": "Literasi Anak"
   },
   {
-    "title": "1984",
-    "author": "George Orwell",
-    "link": "https://example.com/books/1984.pdf",
-    "image": "https://example.com/images/1984.jpg",
-    "desc": "A captivating book titled '1984' by George Orwell, exploring themes of fiction.",
-    "category": "Fiction"
+    "title": "Bumi Dan energi",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1aMANXVD98PqbSrV107GTknrsolqnTW41/view?usp=drive_link",
+    "image": "/sampul/6.png", 
+    "desc": "Pengenalan konsep bumi dan energi untuk anak-anak.",
+    "category": "Sains Anak"
   },
   {
-    "title": "The Lean Startup",
-    "author": "Eric Ries",
-    "link": "https://example.com/books/the-lean-startup.pdf",
-    "image": "https://example.com/images/the-lean-startup.jpg",
-    "desc": "A captivating book titled 'The Lean Startup' by Eric Ries, exploring themes of business.",
-    "category": "Business"
+    "title": "Dongeng Sains",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1K-2fSQtBiVDHGm4tw1C6qZV4TBlLLowX/view?usp=drive_link",
+    "image": "/sampul/7.png", 
+    "desc": "Dongeng yang dikemas dengan fakta-fakta ilmiah menarik.",
+    "category": "Sains Anak"
   },
   {
-    "title": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "link": "https://example.com/books/to-kill-a-mockingbird.pdf",
-    "image": "https://example.com/images/to-kill-a-mockingbird.jpg",
-    "desc": "A captivating book titled 'To Kill a Mockingbird' by Harper Lee, exploring themes of fiction.",
-    "category": "Fiction"
+    "title": "Ayo menjadi seperti mereka",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1FN-BGwnCgiCHuDQOIeTou76eL-aRlPgt/view?usp=drive_link",
+    "image": "/sampul/8.png", 
+    "desc": "Cerita inspiratif tentang tokoh-tokoh yang patut ditiru anak.",
+    "category": "Motivasi Anak"
   },
   {
-    "title": "Thinking, Fast and Slow",
-    "author": "Daniel Kahneman",
-    "link": "https://example.com/books/thinking-fast-and-slow.pdf",
-    "image": "https://example.com/images/thinking-fast-and-slow.jpg",
-    "desc": "A captivating book titled 'Thinking, Fast and Slow' by Daniel Kahneman, exploring themes of psychology.",
-    "category": "Psychology"
+    "title": "Ensklopedia Dunia Fauna",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1Z71LSwva0D7pH39uuOLEaCcOAFCVc77I/view?usp=drive_link",
+    "image": "/sampul/9.png", 
+    "desc": "Panduan anak mengenal binatang dari berbagai belahan dunia.",
+    "category": "Ensiklopedia Anak"
   },
   {
-    "title": "The 4-Hour Workweek",
-    "author": "Tim Ferriss",
-    "link": "https://example.com/books/the-4-hour-workweek.pdf",
-    "image": "https://example.com/images/the-4-hour-workweek.jpg",
-    "desc": "A captivating book titled 'The 4-Hour Workweek' by Tim Ferriss, exploring themes of self-help.",
-    "category": "Self-Help"
+    "title": "Petualang ke Masa lalu",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1kyP9ES2ykVxU_dc2Ca4ddZe7TDukfUbm/view?usp=drive_link",
+    "image": "/sampul/10.png", 
+    "desc": "Cerita petualangan anak menjelajah masa lalu.",
+    "category": "Sejarah Anak"
   },
   {
-    "title": "Clean Code",
-    "author": "Robert C. Martin",
-    "link": "https://example.com/books/clean-code.pdf",
-    "image": "https://example.com/images/clean-code.jpg",
-    "desc": "A captivating book titled 'Clean Code' by Robert C. Martin, exploring themes of technology.",
-    "category": "Technology"
+    "title": "Isi Petualang Antropologi Cilik",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1P1eAkS7Ge8fUMVaclb188U6WJM1v9S9j/view?usp=drive_link",
+    "image": "/sampul/11.png", 
+    "desc": "Antropologi dasar dengan cerita petualang seru untuk anak.",
+    "category": "Sosiologi Anak"
   },
   {
-    "title": "Start With Why",
-    "author": "Simon Sinek",
-    "link": "https://example.com/books/start-with-why.pdf",
-    "image": "https://example.com/images/start-with-why.jpg",
-    "desc": "A captivating book titled 'Start With Why' by Simon Sinek, exploring themes of motivation.",
-    "category": "Motivation"
+    "title": "Kakek dan Pohon Kelapa",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1CW8brCagA3OiO3rKJfutCKBc8jcjrJkc/view?usp=drive_link",
+    "image": "/sampul/12.png", 
+    "desc": "Cerita sederhana tentang kakek yang hidup berdampingan dengan alam.",
+    "category": "Fiksi Anak"
   },
   {
-    "title": "The Power of Now",
-    "author": "Eckhart Tolle",
-    "link": "https://example.com/books/the-power-of-now.pdf",
-    "image": "https://example.com/images/the-power-of-now.jpg",
-    "desc": "A captivating book titled 'The Power of Now' by Eckhart Tolle, exploring themes of spirituality.",
-    "category": "Spirituality"
+    "title": "Kalah oleh Si cerdik",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1LaT-WNEcdaphwXo9J3ssfjaSgcuZ_mFS/view?usp=drive_link",
+    "image": "/sampul/13.png", 
+    "desc": "Cerita tentang si cerdik yang mampu mengalahkan lawannya.",
+    "category": "Fabel Anak"
   },
   {
-    "title": "Grit",
-    "author": "Angela Duckworth",
-    "link": "https://example.com/books/grit.pdf",
-    "image": "https://example.com/images/grit.jpg",
-    "desc": "A captivating book titled 'Grit' by Angela Duckworth, exploring themes of psychology.",
-    "category": "Psychology"
+    "title": "Keluarga Kami",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1FWFAbczJ2ypuzy_s4NHKOdy0pV-oLLl7/view?usp=drive_link",
+    "image": "/sampul/14.png", 
+    "desc": "Cerita kekeluargaan, nilai-nilai persaudaraan untuk anak.",
+    "category": "Keluarga Anak"
   },
   {
-    "title": "The Alchemist",
-    "author": "Paulo Coelho",
-    "link": "https://example.com/books/the-alchemist.pdf",
-    "image": "https://example.com/images/the-alchemist.jpg",
-    "desc": "A captivating book titled 'The Alchemist' by Paulo Coelho, exploring themes of fiction.",
-    "category": "Fiction"
+    "title": "Kesatria Bumantara",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1HZpYArrXu2KBw3KQ80U8JIRXCkINgIX3/view?usp=drive_link",
+    "image": "/sampul/15.png", 
+    "desc": "Petualangan ksatria di angkasa penuh inspirasi dan keberanian.",
+    "category": "Fiksi Petualangan Anak"
   },
   {
-    "title": "The Subtle Art of Not Giving a F*ck",
-    "author": "Mark Manson",
-    "link": "https://example.com/books/the-subtle-art-of-not-giving-a-fck.pdf",
-    "image": "https://example.com/images/the-subtle-art-of-not-giving-a-fck.jpg",
-    "desc": "A captivating book titled 'The Subtle Art of Not Giving a F*ck' by Mark Manson, exploring themes of self-help.",
-    "category": "Self-Help"
+    "title": "Kisah Dua Putri dan Si Raja Ular",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1eQphDmMA-vT5rf13jyC51ry_zkY_MQAt/view?usp=drive_link",
+    "image": "/sampul/16.png", 
+    "desc": "Dongeng kerajaan dan raja ular untuk menumbuhkan imajinasi.",
+    "category": "Dongeng Anak"
   },
   {
-    "title": "Educated",
-    "author": "Tara Westover",
-    "link": "https://example.com/books/educated.pdf",
-    "image": "https://example.com/images/educated.jpg",
-    "desc": "A captivating book titled 'Educated' by Tara Westover, exploring themes of memoir.",
-    "category": "Memoir"
+    "title": "Komik Rampai Tema Nutrisi",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1N99SwlWQgjcDUkXa6zbw-z_jTu5sHp2W/view?usp=drive_link",
+    "image": "/sampul/17.png", 
+    "desc": "Komik edukatif mengajarkan pentingnya nutrisi pada anak.",
+    "category": "Edukasi Anak"
   },
   {
-    "title": "Zero to One",
-    "author": "Peter Thiel",
-    "link": "https://example.com/books/zero-to-one.pdf",
-    "image": "https://example.com/images/zero-to-one.jpg",
-    "desc": "A captivating book titled 'Zero to One' by Peter Thiel, exploring themes of business.",
-    "category": "Business"
+    "title": "Komik Rampai Sekilas Yami",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1fnVwo5jI13iJSAKYZwRJepxJr0ZqLXm0/view?usp=drive_link",
+    "image": "/sampul/18.png", 
+    "desc": "Komik ringan tentang keseharian Yami.",
+    "category": "Komik Anak"
   },
   {
-    "title": "Hooked",
-    "author": "Nir Eyal",
-    "link": "https://example.com/books/hooked.pdf",
-    "image": "https://example.com/images/hooked.jpg",
-    "desc": "A captivating book titled 'Hooked' by Nir Eyal, exploring themes of technology.",
-    "category": "Technology"
+    "title": "Kue Kimu",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1k_hkjq7_gF57ipa3QVAzwi_Suqb7ARPO/view?usp=drive_link",
+    "image": "/sampul/19.png", 
+    "desc": "Cerita manis tentang kue dan petualangan si Kimu.",
+    "category": "Fiksi Anak"
   },
   {
-    "title": "The Psychology of Money",
-    "author": "Morgan Housel",
-    "link": "https://example.com/books/the-psychology-of-money.pdf",
-    "image": "https://example.com/images/the-psychology-of-money.jpg",
-    "desc": "A captivating book titled 'The Psychology of Money' by Morgan Housel, exploring themes of finance.",
-    "category": "Finance"
+    "title": "Literasi Sains",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1ibDbmd1GIAYPjxvWsCUlHlY1jXPLq8uG/view?usp=drive_link",
+    "image": "/sampul/20.png", 
+    "desc": "Mengenalkan anak pada konsep sains secara sederhana.",
+    "category": "Sains Anak"
   },
   {
-    "title": "Filosofi Teras",
-    "author": "Henry Manampiring",
-    "link": "https://example.com/books/filosofi-teras.pdf",
-    "image": "https://example.com/images/filosofi-teras.jpg",
-    "desc": "A captivating book titled 'Filosofi Teras' by Henry Manampiring, exploring themes of self-help.",
-    "category": "Self-Help"
+    "title": "Misteri Patung Dayak",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1y26Ivm3KMGTNkVpMKxBlILAWeKbU7FRO/view?usp=drive_link",
+    "image": "/sampul/21.png", 
+    "desc": "Cerita misteri dan budaya Dayak dalam petualangan anak.",
+    "category": "Dongeng Anak"
   },
   {
-    "title": "Negeri 5 Menara",
-    "author": "Ahmad Fuadi",
-    "link": "https://example.com/books/negeri-5-menara.pdf",
-    "image": "https://example.com/images/negeri-5-menara.jpg",
-    "desc": "A captivating book titled 'Negeri 5 Menara' by Ahmad Fuadi, exploring themes of fiction.",
-    "category": "Fiction"
+    "title": "Monster kakak",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1JCKk2xoVo886ZgGER92D4J1YyOJLDG5C/view?usp=drive_link",
+    "image": "/sampul/22.png", 
+    "desc": "Kisah lucu dan imajinatif tentang monster kakak.",
+    "category": "Fiksi Humor Anak"
   },
   {
-    "title": "Laskar Pelangi",
-    "author": "Andrea Hirata",
-    "link": "https://example.com/books/laskar-pelangi.pdf",
-    "image": "https://example.com/images/laskar-pelangi.jpg",
-    "desc": "A captivating book titled 'Laskar Pelangi' by Andrea Hirata, exploring themes of fiction.",
-    "category": "Fiction"
+    "title": "Pencurian di rumah bernyanyi",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1B4gwOSlYmV0-t3WL9ZhSe4Q7D-ggE9y0/view?usp=drive_link",
+    "image": "/sampul/23.png", 
+    "desc": "Misteri pencurian terjadi di rumah yang musikal.",
+    "category": "Fiksi Anak"
   },
   {
-    "title": "Bumi",
-    "author": "Tere Liye",
-    "link": "https://example.com/books/bumi.pdf",
-    "image": "https://example.com/images/bumi.jpg",
-    "desc": "A captivating book titled 'Bumi' by Tere Liye, exploring themes of fantasy.",
-    "category": "Fantasy"
+    "title": "Putri didalam Hutan",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1GnYMzyJGf0-PaPuWTHKEXaRIxx4G6wZj/view?usp=drive_link",
+    "image": "/sampul/24.png", 
+    "desc": "Dongeng hutan tentang seorang putri dan tantangan alam.",
+    "category": "Dongeng Anak"
   },
   {
-    "title": "Rindu",
-    "author": "Tere Liye",
-    "link": "https://example.com/books/rindu.pdf",
-    "image": "https://example.com/images/rindu.jpg",
-    "desc": "A captivating book titled 'Rindu' by Tere Liye, exploring themes of fiction.",
-    "category": "Fiction"
+    "title": "Samuel The Boy Scientist",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1j1Y7AHbBQHsTCP6hWhGnpqoMSWidSxnG/view?usp=drive_link",
+    "image": "/sampul/25.png", 
+    "desc": "Petualangan ilmiah seorang anak ilmuwan muda bernama Samuel.",
+    "category": "Sains Anak"
   },
   {
-    "title": "Pulang",
-    "author": "Leila S. Chudori",
-    "link": "https://example.com/books/pulang.pdf",
-    "image": "https://example.com/images/pulang.jpg",
-    "desc": "A captivating book titled 'Pulang' by Leila S. Chudori, exploring themes of historical fiction.",
-    "category": "Historical Fiction"
+    "title": "Pajak Kita: Seri Binatang",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1sJQpWk20WPbQ8ArQsNBsvdlmoQ_vpffg/view?usp=drive_link",
+    "image": "/sampul/26.png", 
+    "desc": "Cerita singkat tentang berbagai binatang untuk anak.",
+    "category": "Edukasi Anak"
   },
   {
-    "title": "Perahu Kertas",
-    "author": "Dee Lestari",
-    "link": "https://example.com/books/perahu-kertas.pdf",
-    "image": "https://example.com/images/perahu-kertas.jpg",
-    "desc": "A captivating book titled 'Perahu Kertas' by Dee Lestari, exploring themes of romance.",
-    "category": "Romance"
+    "title": "Transportasi",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1Janzr-Wi7otnVfjQ3czd6wBXrw3sZ1g1/view?usp=drive_link",
+    "image": "/sampul/27.png", 
+    "desc": "Pengenalan anak pada berbagai moda transportasi.",
+    "category": "Edukasi Anak"
   },
   {
-    "title": "Kambing Jantan",
-    "author": "Raditya Dika",
-    "link": "https://example.com/books/kambing-jantan.pdf",
-    "image": "https://example.com/images/kambing-jantan.jpg",
-    "desc": "A captivating book titled 'Kambing Jantan' by Raditya Dika, exploring themes of humor.",
-    "category": "Humor"
+    "title": "Vanya dan Vino",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1bs9BCFuM1AgFctNihJrKxUeYV-lPmP0H/view?usp=drive_link",
+    "image": "/sampul/28.png", 
+    "desc": "Petualangan kakak beradik Vanya dan Vino yang penuh imajinasi.",
+    "category": "Fiksi Anak"
   },
   {
-    "title": "Garis Waktu",
-    "author": "Fiersa Besari",
-    "link": "https://example.com/books/garis-waktu.pdf",
-    "image": "https://example.com/images/garis-waktu.jpg",
-    "desc": "A captivating book titled 'Garis Waktu' by Fiersa Besari, exploring themes of poetry.",
-    "category": "Poetry"
+    "title": "Sepasang Mata",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1XhSlor1GPWF2uzdtQo6uVob0PLHjWgRX/view?usp=drive_link",
+    "image": "/sampul/29.png", 
+    "desc": "Cerita metaforis tentang perspektif dan melihat dunia.",
+    "category": "Fiksi Anak"
   },
   {
-    "title": "Koala Kumal",
-    "author": "Raditya Dika",
-    "link": "https://example.com/books/koala-kumal.pdf",
-    "image": "https://example.com/images/koala-kumal.jpg",
-    "desc": "A captivating book titled 'Koala Kumal' by Raditya Dika, exploring themes of humor.",
-    "category": "Humor"
-  },
-  {
-    "title": "Sepotong Senja untuk Pacarku",
-    "author": "Seno Gumira Ajidarma",
-    "link": "https://example.com/books/sepotong-senja-untuk-pacarku.pdf",
-    "image": "https://example.com/images/sepotong-senja-untuk-pacarku.jpg",
-    "desc": "A captivating book titled 'Sepotong Senja untuk Pacarku' by Seno Gumira Ajidarma, exploring themes of romance.",
-    "category": "Romance"
-  },
-  {
-    "title": "Ayat-Ayat Cinta",
-    "author": "Habiburrahman El Shirazy",
-    "link": "https://example.com/books/ayat-ayat-cinta.pdf",
-    "image": "https://example.com/images/ayat-ayat-cinta.jpg",
-    "desc": "A captivating book titled 'Ayat-Ayat Cinta' by Habiburrahman El Shirazy, exploring themes of romance.",
-    "category": "Romance"
-  },
-  {
-    "title": "Supernova",
-    "author": "Dee Lestari",
-    "link": "https://example.com/books/supernova.pdf",
-    "image": "https://example.com/images/supernova.jpg",
-    "desc": "A captivating book titled 'Supernova' by Dee Lestari, exploring themes of science fiction.",
-    "category": "Science Fiction"
-  },
-  {
-    "title": "Orang-Orang Biasa",
-    "author": "Andrea Hirata",
-    "link": "https://example.com/books/orang-orang-biasa.pdf",
-    "image": "https://example.com/images/orang-orang-biasa.jpg",
-    "desc": "A captivating book titled 'Orang-Orang Biasa' by Andrea Hirata, exploring themes of fiction.",
-    "category": "Fiction"
-  },
-  {
-    "title": "Anak Rantau",
-    "author": "A. Fuadi",
-    "link": "https://example.com/books/anak-rantau.pdf",
-    "image": "https://example.com/images/anak-rantau.jpg",
-    "desc": "A captivating book titled 'Anak Rantau' by A. Fuadi, exploring themes of fiction.",
-    "category": "Fiction"
-  },
-  {
-    "title": "Berani Tidak Disukai",
-    "author": "Ichiro Kishimi & Fumitake Koga",
-    "link": "https://example.com/books/berani-tidak-disukai.pdf",
-    "image": "https://example.com/images/berani-tidak-disukai.jpg",
-    "desc": "A captivating book titled 'Berani Tidak Disukai' by Ichiro Kishimi & Fumitake Koga, exploring themes of self-help.",
-    "category": "Self-Help"
-  },
-  {
-    "title": "Totto-chan",
-    "author": "Tetsuko Kuroyanagi",
-    "link": "https://example.com/books/totto-chan.pdf",
-    "image": "https://example.com/images/totto-chan.jpg",
-    "desc": "A captivating book titled 'Totto-chan' by Tetsuko Kuroyanagi, exploring themes of memoir.",
-    "category": "Memoir"
-  },
-  {
-    "title": "Hujan",
-    "author": "Tere Liye",
-    "link": "https://example.com/books/hujan.pdf",
-    "image": "https://example.com/images/hujan.jpg",
-    "desc": "A captivating book titled 'Hujan' by Tere Liye, exploring themes of romance.",
-    "category": "Romance"
-  },
-  {
-    "title": "Dilan 1990",
-    "author": "Pidi Baiq",
-    "link": "https://example.com/books/dilan-1990.pdf",
-    "image": "https://example.com/images/dilan-1990.jpg",
-    "desc": "A captivating book titled 'Dilan 1990' by Pidi Baiq, exploring themes of romance.",
-    "category": "Romance"
-  },
-  {
-    "title": "Sabtu Bersama Bapak",
-    "author": "Adhitya Mulya",
-    "link": "https://example.com/books/sabtu-bersama-bapak.pdf",
-    "image": "https://example.com/images/sabtu-bersama-bapak.jpg",
-    "desc": "A captivating book titled 'Sabtu Bersama Bapak' by Adhitya Mulya, exploring themes of family.",
-    "category": "Family"
-  },
-  {
-    "title": "Koala Kumal",
-    "author": "Raditya Dika",
-    "link": "https://example.com/books/koala-kumal.pdf",
-    "image": "https://example.com/images/koala-kumal.jpg",
-    "desc": "A captivating book titled 'Koala Kumal' by Raditya Dika, exploring themes of humor.",
-    "category": "Humor"
-  },
-  {
-    "title": "Kambing Jantan",
-    "author": "Raditya Dika",
-    "link": "https://example.com/books/kambing-jantan.pdf",
-    "image": "https://example.com/images/kambing-jantan.jpg",
-    "desc": "A captivating book titled 'Kambing Jantan' by Raditya Dika, exploring themes of humor.",
-    "category": "Humor"
-  },
-  {
-    "title": "Sepotong Senja untuk Pacarku",
-    "author": "Seno Gumira Ajidarma",
-    "link": "https://example.com/books/sepotong-senja-untuk-pacarku.pdf",
-    "image": "https://example.com/images/sepotong-senja-untuk-pacarku.jpg",
-    "desc": "A captivating book titled 'Sepotong Senja untuk Pacarku' by Seno Gumira Ajidarma, exploring themes of romance.",
-    "category": "Romance"
-  },
-  {
-    "title": "Thinking, Fast and Slow",
-    "author": "Daniel Kahneman",
-    "link": "https://example.com/books/thinking-fast-and-slow.pdf",
-    "image": "https://example.com/images/thinking-fast-and-slow.jpg",
-    "desc": "A captivating book titled 'Thinking, Fast and Slow' by Daniel Kahneman, exploring themes of psychology.",
-    "category": "Psychology"
-  },
-  {
-    "title": "The Pragmatic Programmer",
-    "author": "Andrew Hunt & David Thomas",
-    "link": "https://example.com/books/the-pragmatic-programmer.pdf",
-    "image": "https://example.com/images/the-pragmatic-programmer.jpg",
-    "desc": "A captivating book titled 'The Pragmatic Programmer' by Andrew Hunt & David Thomas, exploring themes of technology.",
-    "category": "Technology"
-  },
-  {
-    "title": "Koala Kumal",
-    "author": "Raditya Dika",
-    "link": "https://example.com/books/koala-kumal.pdf",
-    "image": "https://example.com/images/koala-kumal.jpg",
-    "desc": "A captivating book titled 'Koala Kumal' by Raditya Dika, exploring themes of humor.",
-    "category": "Humor"
-  },
-  {
-    "title": "Pulang",
-    "author": "Leila S. Chudori",
-    "link": "https://example.com/books/pulang.pdf",
-    "image": "https://example.com/images/pulang.jpg",
-    "desc": "A captivating book titled 'Pulang' by Leila S. Chudori, exploring themes of historical fiction.",
-    "category": "Historical Fiction"
-  },
-  {
-    "title": "Rich Dad Poor Dad",
-    "author": "Robert T. Kiyosaki",
-    "link": "https://example.com/books/rich-dad-poor-dad.pdf",
-    "image": "https://example.com/images/rich-dad-poor-dad.jpg",
-    "desc": "A captivating book titled 'Rich Dad Poor Dad' by Robert T. Kiyosaki, exploring themes of finance.",
-    "category": "Finance"
-  },
-  {
-    "title": "Start With Why",
-    "author": "Simon Sinek",
-    "link": "https://example.com/books/start-with-why.pdf",
-    "image": "https://example.com/images/start-with-why.jpg",
-    "desc": "A captivating book titled 'Start With Why' by Simon Sinek, exploring themes of motivation.",
-    "category": "Motivation"
-  },
-  {
-    "title": "Totto-chan",
-    "author": "Tetsuko Kuroyanagi",
-    "link": "https://example.com/books/totto-chan.pdf",
-    "image": "https://example.com/images/totto-chan.jpg",
-    "desc": "A captivating book titled 'Totto-chan' by Tetsuko Kuroyanagi, exploring themes of memoir.",
-    "category": "Memoir"
+    "title": "Siti Tedak Siten",
+    "author": "Unknown",
+    "link": "https://drive.google.com/file/d/1zIOLDk_iDp_w_qk_NF4gsAJkMdzl441D/view?usp=drive_link",
+    "image": "/sampul/30.png", 
+    "desc": "Cerita lokal tradisional tentang Siti Tedak Siten.",
+    "category": "Fiksi Budaya Anak"
   }
 ]

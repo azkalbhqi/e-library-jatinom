@@ -54,12 +54,18 @@ export default function BookDetail() {
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
+      <Link
+      href="/"
+      className="inline-block text-blue-600 hover:underline mb-6"
+    >
+      ← Back to home
+    </Link>
       <div className="grid md:grid-cols-2 gap-8">
-        <img
-          src={book.image}
-          alt={book.title}
-          className="rounded shadow w-full h-auto object-cover"
-        />
+      <img
+        src={book.image}
+        alt={book.title}
+        className="rounded shadow w-full h-auto object-cover"
+      />
 
         <div>
           <h1 className="text-3xl font-bold mb-2">{book.title}</h1>
@@ -67,15 +73,26 @@ export default function BookDetail() {
           <p className="text-sm text-indigo-500 italic mb-4">{book.category}</p>
           <p className="mb-4 text-gray-700">{book.desc}</p>
 
-          <Link
-            href={book.link}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded mt-4"
-          >
-            📖 Read / Download
-          </Link>
+          <div className="flex justify-between">
+            <Link
+              href={book.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded mt-4"
+            >
+              📖 Read
+            </Link>
+            <Link
+              href={`${process.env.NEXT_PUBLIC_API_URL}${book.image}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded mt-4"
+            >
+              📖 Download
+            </Link>
+          </div>
         </div>
+          
       </div>
     </div>
   );

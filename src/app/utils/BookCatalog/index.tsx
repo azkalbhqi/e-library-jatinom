@@ -72,8 +72,10 @@ const BookCatalog: React.FC = () => {
             <img
               src={book.image}
               alt={book.title}
-              className="w-full h-48 object-cover rounded mb-4"
+              className="w-full h-fit object-cover rounded mb-4"
+              loading="lazy"
             />
+
             <h2 className="text-xl font-semibold">{book.title}</h2>
             <p className="text-sm text-gray-600">{book.author}</p>
             <p className="grow">
