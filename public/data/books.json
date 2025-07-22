@@ -1,9 +1,19 @@
 [
   {
+    "title": "Anak Hebat Internet Cermat",
+    "author": "MMD 23 Jatinom",
+    "link": "https://drive.google.com/file/d/1wKKop6W9jql9EZYpUkrb9OZ2mOemVxwq/view?usp=sharing",
+    "image": "/sampul/A.png", 
+    "drive_id": "1wKKop6W9jql9EZYpUkrb9OZ2mOemVxwq",
+    "desc": "Cerita petualangan Niko dan Dafa dalam menjelajahi dunia digital dengan bijak",
+    "category": "Fiksi Anak"
+  },
+  {
     "title": "Abdul dan Harimau",
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1EsGKBFwPRZFNsTdTzgJKioBsVtXsV3rW/view?usp=drive_link",
     "image": "/sampul/1.png", 
+    "drive_id": "1EsGKBFwPRZFNsTdTzgJKioBsVtXsV3rW",
     "desc": "Dongeng petualangan seru Abdul menghadapi harimau di hutan.",
     "category": "Fiksi Anak"
   },
@@ -12,6 +22,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1m1_yeJQ3ZbYPKNshuiickK8j-5IEes5J/view?usp=drive_link",
     "image": "/sampul/2.png", 
+    "drive_id": "1m1_yeJQ3ZbYPKNshuiickK8j-5IEes5J",
     "desc": "Cerita anak tentang tumbuh besar dan menjadi mandiri.",
     "category": "Fiksi Anak"
   },
@@ -20,6 +31,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1fXni1AhdGTJqpEGZXgDJB0un_TYoO1G4/view?usp=drive_link",
     "image": "/sampul/3.png", 
+    "drive_id": "1fXni1AhdGTJqpEGZXgDJB0un_TYoO1G4",
     "desc": "Inspiratif, anak-anak bermimpi besar untuk masa depan negeri.",
     "category": "Motivasi Anak"
   },
@@ -28,6 +40,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1sYiRTp0TmYGQD9jXkp8jxUZFDFTPU5rF/view?usp=drive_link",
     "image": "/sampul/4.png", 
+    "drive_id": "1sYiRTp0TmYGQD9jXkp8jxUZFDFTPU5rF",
     "desc": "Buku edukasi untuk mengenal konsep-konsep penting secara sederhana.",
     "category": "Edukasi Anak"
   },
@@ -36,6 +49,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/16zi_AGwDNgwhmoRdzo-Gj0g_zmVkX5aZ/view?usp=drive_link",
     "image": "/sampul/5.png", 
+    "drive_id": "16zi_AGwDNgwhmoRdzo-Gj0g_zmVkX5aZ",
     "desc": "Mengajak anak gemar membaca melalui cerita seru dan ilustratif.",
     "category": "Literasi Anak"
   },
@@ -44,6 +58,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1aMANXVD98PqbSrV107GTknrsolqnTW41/view?usp=drive_link",
     "image": "/sampul/6.png", 
+    "drive_id": "1aMANXVD98PqbSrV107GTknrsolqnTW41",
     "desc": "Pengenalan konsep bumi dan energi untuk anak-anak.",
     "category": "Sains Anak"
   },
@@ -52,6 +67,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1K-2fSQtBiVDHGm4tw1C6qZV4TBlLLowX/view?usp=drive_link",
     "image": "/sampul/7.png", 
+    "drive_id": "1K-2fSQtBiVDHGm4tw1C6qZV4TBlLLowX",
     "desc": "Dongeng yang dikemas dengan fakta-fakta ilmiah menarik.",
     "category": "Sains Anak"
   },
@@ -60,6 +76,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1FN-BGwnCgiCHuDQOIeTou76eL-aRlPgt/view?usp=drive_link",
     "image": "/sampul/8.png", 
+    "drive_id": "1FN-BGwnCgiCHuDQOIeTou76eL-aRlPgt",
     "desc": "Cerita inspiratif tentang tokoh-tokoh yang patut ditiru anak.",
     "category": "Motivasi Anak"
   },
@@ -68,6 +85,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1Z71LSwva0D7pH39uuOLEaCcOAFCVc77I/view?usp=drive_link",
     "image": "/sampul/9.png", 
+    "drive_id": "1Z71LSwva0D7pH39uuOLEaCcOAFCVc77I",
     "desc": "Panduan anak mengenal binatang dari berbagai belahan dunia.",
     "category": "Ensiklopedia Anak"
   },
@@ -76,6 +94,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1kyP9ES2ykVxU_dc2Ca4ddZe7TDukfUbm/view?usp=drive_link",
     "image": "/sampul/10.png", 
+    "drive_id": "1kyP9ES2ykVxU_dc2Ca4ddZe7TDukfUbm",
     "desc": "Cerita petualangan anak menjelajah masa lalu.",
     "category": "Sejarah Anak"
   },
@@ -84,6 +103,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1P1eAkS7Ge8fUMVaclb188U6WJM1v9S9j/view?usp=drive_link",
     "image": "/sampul/11.png", 
+    "drive_id": "1P1eAkS7Ge8fUMVaclb188U6WJM1v9S9j",
     "desc": "Antropologi dasar dengan cerita petualang seru untuk anak.",
     "category": "Sosiologi Anak"
   },
@@ -92,6 +112,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1CW8brCagA3OiO3rKJfutCKBc8jcjrJkc/view?usp=drive_link",
     "image": "/sampul/12.png", 
+    "drive_id": "1CW8brCagA3OiO3rKJfutCKBc8jcjrJkc",
     "desc": "Cerita sederhana tentang kakek yang hidup berdampingan dengan alam.",
     "category": "Fiksi Anak"
   },
@@ -100,6 +121,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1LaT-WNEcdaphwXo9J3ssfjaSgcuZ_mFS/view?usp=drive_link",
     "image": "/sampul/13.png", 
+    "drive_id": "1LaT-WNEcdaphwXo9J3ssfjaSgcuZ_mFS",
     "desc": "Cerita tentang si cerdik yang mampu mengalahkan lawannya.",
     "category": "Fabel Anak"
   },
@@ -108,6 +130,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1FWFAbczJ2ypuzy_s4NHKOdy0pV-oLLl7/view?usp=drive_link",
     "image": "/sampul/14.png", 
+    "drive_id": "1FWFAbczJ2ypuzy_s4NHKOdy0pV-oLLl7",
     "desc": "Cerita kekeluargaan, nilai-nilai persaudaraan untuk anak.",
     "category": "Keluarga Anak"
   },
@@ -116,6 +139,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1HZpYArrXu2KBw3KQ80U8JIRXCkINgIX3/view?usp=drive_link",
     "image": "/sampul/15.png", 
+    "drive_id": "1HZpYArrXu2KBw3KQ80U8JIRXCkINgIX3",
     "desc": "Petualangan ksatria di angkasa penuh inspirasi dan keberanian.",
     "category": "Fiksi Petualangan Anak"
   },
@@ -124,6 +148,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1eQphDmMA-vT5rf13jyC51ry_zkY_MQAt/view?usp=drive_link",
     "image": "/sampul/16.png", 
+    "drive_id": "1eQphDmMA-vT5rf13jyC51ry_zkY_MQAt",
     "desc": "Dongeng kerajaan dan raja ular untuk menumbuhkan imajinasi.",
     "category": "Dongeng Anak"
   },
@@ -132,6 +157,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1N99SwlWQgjcDUkXa6zbw-z_jTu5sHp2W/view?usp=drive_link",
     "image": "/sampul/17.png", 
+    "drive_id": "1N99SwlWQgjcDUkXa6zbw-z_jTu5sHp2W",
     "desc": "Komik edukatif mengajarkan pentingnya nutrisi pada anak.",
     "category": "Edukasi Anak"
   },
@@ -140,6 +166,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1fnVwo5jI13iJSAKYZwRJepxJr0ZqLXm0/view?usp=drive_link",
     "image": "/sampul/18.png", 
+    "drive_id": "1fnVwo5jI13iJSAKYZwRJepxJr0ZqLXm0",
     "desc": "Komik ringan tentang keseharian Yami.",
     "category": "Komik Anak"
   },
@@ -148,6 +175,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1k_hkjq7_gF57ipa3QVAzwi_Suqb7ARPO/view?usp=drive_link",
     "image": "/sampul/19.png", 
+    "drive_id": "1k_hkjq7_gF57ipa3QVAzwi_Suqb7ARPO",
     "desc": "Cerita manis tentang kue dan petualangan si Kimu.",
     "category": "Fiksi Anak"
   },
@@ -156,6 +184,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1ibDbmd1GIAYPjxvWsCUlHlY1jXPLq8uG/view?usp=drive_link",
     "image": "/sampul/20.png", 
+    "drive_id": "1ibDbmd1GIAYPjxvWsCUlHlY1jXPLq8uG",
     "desc": "Mengenalkan anak pada konsep sains secara sederhana.",
     "category": "Sains Anak"
   },
@@ -164,6 +193,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1y26Ivm3KMGTNkVpMKxBlILAWeKbU7FRO/view?usp=drive_link",
     "image": "/sampul/21.png", 
+    "drive_id": "1y26Ivm3KMGTNkVpMKxBlILAWeKbU7FRO",
     "desc": "Cerita misteri dan budaya Dayak dalam petualangan anak.",
     "category": "Dongeng Anak"
   },
@@ -172,6 +202,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1JCKk2xoVo886ZgGER92D4J1YyOJLDG5C/view?usp=drive_link",
     "image": "/sampul/22.png", 
+    "drive_id": "1JCKk2xoVo886ZgGER92D4J1YyOJLDG5C",
     "desc": "Kisah lucu dan imajinatif tentang monster kakak.",
     "category": "Fiksi Humor Anak"
   },
@@ -180,6 +211,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1B4gwOSlYmV0-t3WL9ZhSe4Q7D-ggE9y0/view?usp=drive_link",
     "image": "/sampul/23.png", 
+    "drive_id": "1B4gwOSlYmV0-t3WL9ZhSe4Q7D-ggE9y0",
     "desc": "Misteri pencurian terjadi di rumah yang musikal.",
     "category": "Fiksi Anak"
   },
@@ -188,6 +220,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1GnYMzyJGf0-PaPuWTHKEXaRIxx4G6wZj/view?usp=drive_link",
     "image": "/sampul/24.png", 
+    "drive_id": "1GnYMzyJGf0-PaPuWTHKEXaRIxx4G6wZj",
     "desc": "Dongeng hutan tentang seorang putri dan tantangan alam.",
     "category": "Dongeng Anak"
   },
@@ -196,6 +229,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1j1Y7AHbBQHsTCP6hWhGnpqoMSWidSxnG/view?usp=drive_link",
     "image": "/sampul/25.png", 
+    "drive_id": "1j1Y7AHbBQHsTCP6hWhGnpqoMSWidSxnG",
     "desc": "Petualangan ilmiah seorang anak ilmuwan muda bernama Samuel.",
     "category": "Sains Anak"
   },
@@ -204,6 +238,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1sJQpWk20WPbQ8ArQsNBsvdlmoQ_vpffg/view?usp=drive_link",
     "image": "/sampul/26.png", 
+    "drive_id": "1sJQpWk20WPbQ8ArQsNBsvdlmoQ_vpffg",
     "desc": "Cerita singkat tentang berbagai binatang untuk anak.",
     "category": "Edukasi Anak"
   },
@@ -212,6 +247,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1Janzr-Wi7otnVfjQ3czd6wBXrw3sZ1g1/view?usp=drive_link",
     "image": "/sampul/27.png", 
+    "drive_id": "1Janzr-Wi7otnVfjQ3czd6wBXrw3sZ1g1",
     "desc": "Pengenalan anak pada berbagai moda transportasi.",
     "category": "Edukasi Anak"
   },
@@ -220,6 +256,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1bs9BCFuM1AgFctNihJrKxUeYV-lPmP0H/view?usp=drive_link",
     "image": "/sampul/28.png", 
+    "drive_id": "1bs9BCFuM1AgFctNihJrKxUeYV-lPmP0H",
     "desc": "Petualangan kakak beradik Vanya dan Vino yang penuh imajinasi.",
     "category": "Fiksi Anak"
   },
@@ -228,6 +265,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1XhSlor1GPWF2uzdtQo6uVob0PLHjWgRX/view?usp=drive_link",
     "image": "/sampul/29.png", 
+    "drive_id": "1XhSlor1GPWF2uzdtQo6uVob0PLHjWgRX",
     "desc": "Cerita metaforis tentang perspektif dan melihat dunia.",
     "category": "Fiksi Anak"
   },
@@ -236,6 +274,7 @@
     "author": "Unknown",
     "link": "https://drive.google.com/file/d/1zIOLDk_iDp_w_qk_NF4gsAJkMdzl441D/view?usp=drive_link",
     "image": "/sampul/30.png", 
+    "drive_id": "1zIOLDk_iDp_w_qk_NF4gsAJkMdzl441D",
     "desc": "Cerita lokal tradisional tentang Siti Tedak Siten.",
     "category": "Fiksi Budaya Anak"
   }

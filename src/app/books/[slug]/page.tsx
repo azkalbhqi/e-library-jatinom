@@ -5,6 +5,7 @@ import { useParams, notFound } from "next/navigation";
 import Link from "next/link";
 
 type Book = {
+  drive_id: string;
   title: string;
   author: string;
   link: string;
@@ -83,7 +84,7 @@ export default function BookDetail() {
               📖 Read
             </Link>
             <Link
-              href={`${process.env.NEXT_PUBLIC_API_URL}${book.image}`}
+              href={`${process.env.NEXT_PUBLIC_API_URL}${book.drive_id}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded mt-4"
